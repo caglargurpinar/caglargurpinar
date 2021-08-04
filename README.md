@@ -11,4 +11,3 @@ Here are some ideas to get you started:-->
 
 
 [<img src='linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/caglar-gurpinar/)  [<img src='instagram.png' alt='instagram' height='40'>](https://www.instagram.com/gurpinarcaglar/)
-GitHub

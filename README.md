@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **caglargurpinar@outlook.com**
 
-- 📄 Know about my experiences [5-Caglar_Gurpinar_CV.pdf](https://github.com/caglargurpinar/caglargurpinar/files/7123229/5-Caglar_Gurpinar_CV.pdf)
+- 📄 Know about my experiences [Caglar_Gurpinar_CV.pdf](https://github.com/caglargurpinar/caglargurpinar/files/7123229/5-Caglar_Gurpinar_CV.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
